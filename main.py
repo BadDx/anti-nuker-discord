@@ -133,4 +133,4 @@ async def delete_messages(ctx, for_, *, message_):
     client.remove_listener(func=on_message)
 
 
-client.run('your discord bot token')
+client.run('ODU3OTU2NDA3NzQ2NjI1NTU2.YNXIKw.j-7c90y1YxXpNBt1y5rcx4cPYKE')
